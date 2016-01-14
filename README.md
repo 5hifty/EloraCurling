@@ -2,5 +2,5 @@
 Captstone Project
 Members:
 Steve Nagel
-Krystian Kuyzk
+Krystian Kuzyk
 Jordan Menard
